@@ -1,0 +1,92 @@
+{
+	"DocuSignEnvelopeInformation": {
+		"EnvelopeStatus": {
+			"RecipientStatuses": {
+				"RecipientStatus": {
+					"Type": "Signer",
+					"Email": "abhishek.kumar@niyuj.com",
+					"UserName": "Abhishek Kumar",
+					"RoutingOrder": "1",
+					"Sent": "2020-04-06T16:10:17.103",
+					"Delivered": "2020-04-06T16:10:28.12",
+					"Signed": "2020-04-06T16:10:39.493",
+					"DeclineReason": {
+						"_xsi:nil": "true"
+					},
+					"Status": "Completed",
+					"RecipientIPAddress": "47.9.216.166",
+					"CustomFields": "",
+					"TabStatuses": {
+						"TabStatus": [
+							{
+								"TabType": "SignHere",
+								"Status": "Signed",
+								"XPosition": "179",
+								"YPosition": "802",
+								"TabLabel": "Signature d86f258d-56e0-4c3b-8ae5-c89491cc3d42",
+								"TabName": "SignHere",
+								"TabValue": "",
+								"DocumentID": "1",
+								"PageNumber": "1"
+							},
+							{
+								"TabType": "SignHere",
+								"Status": "Signed",
+								"XPosition": "885",
+								"YPosition": "804",
+								"TabLabel": "Signature d0e7a70c-965b-47f8-9428-2972aaad3a17",
+								"TabName": "SignHere",
+								"TabValue": "",
+								"DocumentID": "1",
+								"PageNumber": "1"
+							}
+						]
+					},
+					"AccountStatus": "Active",
+					"RecipientId": "34179d73-2ddc-4033-9f6f-4802b230cf7f"
+				}
+			},
+			"TimeGenerated": "2020-04-06T16:11:00.4197291",
+			"EnvelopeID": "3f287488-3a88-4bd4-a354-5ba2394626cc",
+			"Subject": "Test",
+			"UserName": "Abhishek Kumar",
+			"Email": "abhishek.kumar@niyuj.com",
+			"Status": "Completed",
+			"Created": "2020-04-06T16:10:16.48",
+			"Sent": "2020-04-06T16:10:17.137",
+			"Delivered": "2020-04-06T16:10:28.167",
+			"Signed": "2020-04-06T16:10:39.493",
+			"Completed": "2020-04-06T16:10:39.493",
+			"ACStatus": "Original",
+			"ACStatusDate": "2020-04-06T16:10:16.48",
+			"ACHolder": "Abhishek Kumar",
+			"ACHolderEmail": "abhishek.kumar@niyuj.com",
+			"ACHolderLocation": "DocuSign",
+			"SigningLocation": "Online",
+			"SenderIPAddress": "47.9.216.166",
+			"EnvelopePDFHash": "",
+			"CustomFields": {
+				"CustomField": {
+					"Name": "templateUsageRestriction",
+					"Show": "False",
+					"Required": "False",
+					"Value": "allOptions"
+				}
+			},
+			"AutoNavigation": "true",
+			"EnvelopeIdStamping": "true",
+			"AuthoritativeCopy": "false",
+			"DocumentStatuses": {
+				"DocumentStatus": {
+					"ID": "1",
+					"Name": "form (4).pdf",
+					"TemplateName": "Admisson Form Demo",
+					"Sequence": "1"
+				}
+			}
+		},
+		"_xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"_xmlns": "http://www.docusign.net/API/3.0"
+	}
+}
